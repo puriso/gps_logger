@@ -2,14 +2,14 @@
 
 随時追加予定
 
-# Get started
+## Get started
 
 * Install node.js
 * Install React-native
 [https://facebook.github.io/react-native/docs/getting-started](https://facebook.github.io/react-native/docs/getting-started)
 * Initialize setup for X-Code
 
-## Install the project
+### Install the project
 ```
 npm install
 cd ios && podinstall
