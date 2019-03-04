@@ -16,7 +16,7 @@ sudo gem install cocoapods
 ### Install the project
 ```
 npm install
-cd ios && podinstall
+cd ios && pod install
 react-native run-ios
 ```
 だめだったらキャッシュ消すなり、node_modulesを消したりする。
