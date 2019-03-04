@@ -8,6 +8,10 @@
 * Install React-native
 [https://facebook.github.io/react-native/docs/getting-started](https://facebook.github.io/react-native/docs/getting-started)
 * Initialize setup for X-Code
+* Install cocoapods
+```
+sudo gem install cocoapods
+```
 
 ### Install the project
 ```
